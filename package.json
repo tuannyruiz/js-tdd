@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Nossa biblioteca do curso JS com TDD na prática",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuannyruiz/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Tuanny Ruiz <tuannyruiz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tuannyruiz/js-tdd/issues"
+  },
+  "homepage": "https://github.com/tuannyruiz/js-tdd#readme"
+}
